@@ -23,7 +23,6 @@
 | 8443 | HTTPS | 内部管理（オプション） | 内部通信 |
 
 > [!IMPORTANT]
-
 > UAGのHA構成では、ロードバランサーがこれらのポートを監視する必要があります。
 
 ### Horizon Agent
@@ -137,7 +136,6 @@
 | ディスク使用率 | 80%以下 | 80-90% | 90%以上 |
 
 > [!WARNING]
-
 > Boot StormやLogon Stormが発生する場合、ディスクIOPSが大幅に増加します。適切なストレージ設計が必要です。
 
 ### ネットワーク
@@ -216,7 +214,6 @@
 | Instant Cloneログ | `C:\ProgramData\VMware\VDM\logs\vdm-instantclone.log` | Instant Clone関連のログ |
 
 > [!TIP]
-
 > Instant Cloneデバッグモードを有効にすると、より詳細なログが生成されます。
 
 ### App Volumes Manager
@@ -466,7 +463,6 @@ collect-log-bundle
 | 非永続デスクトップ（Horizon 7以前） | リンククローン | 旧バージョンでの使用 |
 
 > [!IMPORTANT]
-
 > Horizon 8では、Instant Cloneが推奨されるクローン方式です。Linked Cloneは非推奨です。
 
 ## 表示プロトコルの選択ガイド
@@ -505,7 +501,6 @@ FIPS 140-2モードを有効にする場合、以下のコンポーネントでF
 - Horizon Agent（オプション）
 
 > [!CAUTION]
-
 > FIPS 140-2モードを有効にすると、一部の機能が制限される可能性があります。本番環境で有効にする前に、テスト環境で十分に検証してください。
 
 ## Cloud Pod Architectureの制限

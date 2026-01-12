@@ -43,7 +43,6 @@ Connection Serverは、Horizon環境の中核となるコンポーネントで�
 - FIPS 140-2モード対応（オプション）
 
 > [!IMPORTANT]
-
 > Connection Serverの設定は、デスクトッププールのパフォーマンスに直接影響を与えます。グローバル設定の最適化が重要です。
 
 #### Unified Access Gateway (UAG)
@@ -228,7 +227,6 @@ Edge Gatewayは、Omnissa Intelligenceにデータを送信します：
 - UAGセッションプロトコルのファイアウォール設定
 
 > [!TIP]
-
 > UAGとConnection Serverの統合では、1:1比率を維持することがベストプラクティスです。これにより、パフォーマンスと管理性が向上します。
 
 ## ストレージアーキテクチャ
@@ -258,7 +256,6 @@ Edge Gatewayは、Omnissa Intelligenceにデータを送信します：
 - App Volumesレプリケーション用ストレージ要件
 
 > [!WARNING]
-
 > Boot StormやLogon Stormが発生する場合、ストレージIOPSが大幅に増加します。適切なストレージ設計とキャッシング戦略が必要です。
 
 ## 高可用性の概念
@@ -334,7 +331,6 @@ Edge Gatewayは、Omnissa Intelligenceにデータを送信します：
 - アップグレードプロセスと依存関係
 
 > [!IMPORTANT]
-
 > Cloud Pod Architectureでは、グローバルLDAPインスタンスとローカルLDAPインスタンスの違いを理解することが重要です。グローバルLDAPはフェデレーション全体で使用され、ローカルLDAPは各ポッドで使用されます。
 
 ## コンポーネント間の通信フロー
