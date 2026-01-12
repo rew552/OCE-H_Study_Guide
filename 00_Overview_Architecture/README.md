@@ -42,9 +42,9 @@ Connection Serverは、Horizon環境の中核となるコンポーネントで�
 - Active Directoryと統合
 - FIPS 140-2モード対応（オプション）
 
-:::important
-Connection Serverの設定は、デスクトッププールのパフォーマンスに直接影響を与えます。グローバル設定の最適化が重要です。
-:::
+> [!IMPORTANT]
+
+> Connection Serverの設定は、デスクトッププールのパフォーマンスに直接影響を与えます。グローバル設定の最適化が重要です。
 
 #### Unified Access Gateway (UAG)
 
@@ -227,9 +227,9 @@ Edge Gatewayは、Omnissa Intelligenceにデータを送信します：
 - ネットワークセグメンテーション
 - UAGセッションプロトコルのファイアウォール設定
 
-:::tip
-UAGとConnection Serverの統合では、1:1比率を維持することがベストプラクティスです。これにより、パフォーマンスと管理性が向上します。
-:::
+> [!TIP]
+
+> UAGとConnection Serverの統合では、1:1比率を維持することがベストプラクティスです。これにより、パフォーマンスと管理性が向上します。
 
 ## ストレージアーキテクチャ
 
@@ -257,9 +257,9 @@ UAGとConnection Serverの統合では、1:1比率を維持することがベス
 - ストレージ階層化
 - App Volumesレプリケーション用ストレージ要件
 
-:::warning
-Boot StormやLogon Stormが発生する場合、ストレージIOPSが大幅に増加します。適切なストレージ設計とキャッシング戦略が必要です。
-:::
+> [!WARNING]
+
+> Boot StormやLogon Stormが発生する場合、ストレージIOPSが大幅に増加します。適切なストレージ設計とキャッシング戦略が必要です。
 
 ## 高可用性の概念
 
@@ -333,9 +333,9 @@ Boot StormやLogon Stormが発生する場合、ストレージIOPSが大幅に�
 - サイト設定オプション
 - アップグレードプロセスと依存関係
 
-:::important
-Cloud Pod Architectureでは、グローバルLDAPインスタンスとローカルLDAPインスタンスの違いを理解することが重要です。グローバルLDAPはフェデレーション全体で使用され、ローカルLDAPは各ポッドで使用されます。
-:::
+> [!IMPORTANT]
+
+> Cloud Pod Architectureでは、グローバルLDAPインスタンスとローカルLDAPインスタンスの違いを理解することが重要です。グローバルLDAPはフェデレーション全体で使用され、ローカルLDAPは各ポッドで使用されます。
 
 ## コンポーネント間の通信フロー
 
