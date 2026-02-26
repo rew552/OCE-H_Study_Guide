@@ -290,3 +290,15 @@
 | **Login VSI** | VDI/RDSH 環境の負荷テスト・ベンチマークツール |
 | **vdmexport / vdmimport** | Connection Server の LDAP データ（Horizon 構成情報）のバックアップ・リストアツール |
 | **vdmutil** | True SSO コネクタの作成・管理、Enrollment Server 登録等に使用する CLI ツール |
+
+---
+
+## Appendix
+
+試験ガイドの最小資格要件に含まれるが、試験セクション（4.1〜4.7）の直接的な出題対象ではない前提知識を補足資料として整理する。
+
+| Appendix | トピック | ファイル |
+|----------|---------|---------|
+| A1 | Workspace ONE UEM 概要と Horizon 統合 | [A1](Appendix/A1_Workspace_ONE_UEM_Overview.md) |
+| A2 | Omnissa 製品ポートフォリオ | [A2](Appendix/A2_Omnissa_Product_Portfolio.md) |
+| A3 | Omnissa ライセンス体系 | [A3](Appendix/A3_Omnissa_Licensing.md) |
