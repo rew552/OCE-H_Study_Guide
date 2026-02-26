@@ -36,15 +36,15 @@
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.1.1 | Connection Servers, Enrollment Servers, Access Connectors | [1.1](Section1_Infrastructure_Planning_and_Management/1.1_Connection_Servers_Enrollment_Access_Connectors.md) |
-| 4.1.2 | Planning Horizon Deployments | [1.2](Section1_Infrastructure_Planning_and_Management/1.2_Planning_Horizon_Deployments.md) |
-| 4.1.3 | Active Directory Integration | [1.3](Section1_Infrastructure_Planning_and_Management/1.3_Active_Directory_Integration.md) |
-| 4.1.4 | Unified Access Gateways | [1.4](Section1_Infrastructure_Planning_and_Management/1.4_Unified_Access_Gateways.md) |
-| 4.1.5 | Licenses and Edge Gateway | [1.5](Section1_Infrastructure_Planning_and_Management/1.5_Licenses_Edge_Gateway.md) |
-| 4.1.6 | Pod/Farm Architecture | [1.6](Section1_Infrastructure_Planning_and_Management/1.6_Pod_Farm_Architecture.md) |
-| 4.1.7 | DEM Integration | [1.7](Section1_Infrastructure_Planning_and_Management/1.7_DEM_Integration.md) |
-| 4.1.8 | App Volumes Integration | [1.8](Section1_Infrastructure_Planning_and_Management/1.8_App_Volumes_Integration.md) |
-| 4.1.9 | Resource Allocation and Load Balancing | [1.9](Section1_Infrastructure_Planning_and_Management/1.9_Resource_Allocation_Load_Balancing.md) |
+| 4.1.1 | Connection Servers, Enrollment Servers, Access Connectors | [1.01](Section1_Infrastructure_Planning_and_Management/1.01_Connection_Servers_Enrollment_Access_Connectors.md) |
+| 4.1.2 | Planning Horizon Deployments | [1.02](Section1_Infrastructure_Planning_and_Management/1.02_Planning_Horizon_Deployments.md) |
+| 4.1.3 | Active Directory Integration | [1.03](Section1_Infrastructure_Planning_and_Management/1.03_Active_Directory_Integration.md) |
+| 4.1.4 | Unified Access Gateways | [1.04](Section1_Infrastructure_Planning_and_Management/1.04_Unified_Access_Gateways.md) |
+| 4.1.5 | Licenses and Edge Gateway | [1.05](Section1_Infrastructure_Planning_and_Management/1.05_Licenses_Edge_Gateway.md) |
+| 4.1.6 | Pod/Farm Architecture | [1.06](Section1_Infrastructure_Planning_and_Management/1.06_Pod_Farm_Architecture.md) |
+| 4.1.7 | DEM Integration | [1.07](Section1_Infrastructure_Planning_and_Management/1.07_DEM_Integration.md) |
+| 4.1.8 | App Volumes Integration | [1.08](Section1_Infrastructure_Planning_and_Management/1.08_App_Volumes_Integration.md) |
+| 4.1.9 | Resource Allocation and Load Balancing | [1.09](Section1_Infrastructure_Planning_and_Management/1.09_Resource_Allocation_Load_Balancing.md) |
 | 4.1.10 | Horizon Platform Upgrade | [1.10](Section1_Infrastructure_Planning_and_Management/1.10_Horizon_Platform_Upgrade.md) |
 | 4.1.11 | Recording Server | [1.11](Section1_Infrastructure_Planning_and_Management/1.11_Recording_Server.md) |
 | 4.1.12 | FIPS 140-2 Compliance | [1.12](Section1_Infrastructure_Planning_and_Management/1.12_FIPS_140-2_Compliance.md) |
@@ -54,50 +54,50 @@
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.2 | Golden Images | [2.1](Section2_Desktop_Application_Profile_Management/2.1_Golden_Images.md) |
-| 4.2 | Desktop Pools | [2.2](Section2_Desktop_Application_Profile_Management/2.2_Desktop_Pools.md) |
-| 4.2 | Entitlements | [2.3](Section2_Desktop_Application_Profile_Management/2.3_Entitlements.md) |
-| 4.2 | RDSH Farms | [2.4](Section2_Desktop_Application_Profile_Management/2.4_RDSH_Farms.md) |
-| 4.2 | App Volumes | [2.5](Section2_Desktop_Application_Profile_Management/2.5_App_Volumes.md) |
-| 4.2 | DEM Policies | [2.6](Section2_Desktop_Application_Profile_Management/2.6_DEM_Policies.md) |
-| 4.2 | GPOs | [2.7](Section2_Desktop_Application_Profile_Management/2.7_GPOs.md) |
+| 4.2 | Golden Images | [2.01](Section2_Desktop_Application_Profile_Management/2.01_Golden_Images.md) |
+| 4.2 | Desktop Pools | [2.02](Section2_Desktop_Application_Profile_Management/2.02_Desktop_Pools.md) |
+| 4.2 | Entitlements | [2.03](Section2_Desktop_Application_Profile_Management/2.03_Entitlements.md) |
+| 4.2 | RDSH Farms | [2.04](Section2_Desktop_Application_Profile_Management/2.04_RDSH_Farms.md) |
+| 4.2 | App Volumes | [2.05](Section2_Desktop_Application_Profile_Management/2.05_App_Volumes.md) |
+| 4.2 | DEM Policies | [2.06](Section2_Desktop_Application_Profile_Management/2.06_DEM_Policies.md) |
+| 4.2 | GPOs | [2.07](Section2_Desktop_Application_Profile_Management/2.07_GPOs.md) |
 
 ### Section 3: Monitoring & Optimization
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.3.1 | Advanced Display Protocol Optimization | [3.1](Section3_Monitoring_Optimization/3.1_Advanced_Display_Protocol_Optimization.md) |
-| 4.3.2 | Advanced Golden Image Optimization | [3.2](Section3_Monitoring_Optimization/3.2_Advanced_Golden_Image_Optimization.md) |
-| 4.3.3 | Pool Capacity Planning | [3.3](Section3_Monitoring_Optimization/3.3_Pool_Capacity_Planning.md) |
+| 4.3.1 | Advanced Display Protocol Optimization | [3.01](Section3_Monitoring_Optimization/3.01_Advanced_Display_Protocol_Optimization.md) |
+| 4.3.2 | Advanced Golden Image Optimization | [3.02](Section3_Monitoring_Optimization/3.02_Advanced_Golden_Image_Optimization.md) |
+| 4.3.3 | Pool Capacity Planning | [3.03](Section3_Monitoring_Optimization/3.03_Pool_Capacity_Planning.md) |
 
 ### Section 4: Troubleshooting
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.4.1 | Complex VDI Issues | [4.1](Section4_Troubleshooting/4.1_Complex_VDI_Issues.md) |
+| 4.4.1 | Complex VDI Issues | [4.01](Section4_Troubleshooting/4.01_Complex_VDI_Issues.md) |
 
 ### Section 5: Security & Compliance
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.5.1 | SSL Certificates and MFA | [5.1](Section5_Security_Compliance/5.1_SSL_Certificates_MFA.md) |
-| 4.5.2 | Data Protection | [5.2](Section5_Security_Compliance/5.2_Data_Protection.md) |
+| 4.5.1 | SSL Certificates and MFA | [5.01](Section5_Security_Compliance/5.01_SSL_Certificates_MFA.md) |
+| 4.5.2 | Data Protection | [5.02](Section5_Security_Compliance/5.02_Data_Protection.md) |
 
 ### Section 6: Scale and Recovery
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.6.1 | Scale Horizon Environment | [6.1](Section6_Scale_and_Recovery/6.1_Scale_Horizon_Environment.md) |
-| 4.6.2 | Cloud Pod Architecture (CPA) | [6.2](Section6_Scale_and_Recovery/6.2_Cloud_Pod_Architecture.md) |
-| 4.6.3 | Disaster Recovery and Business Continuity | [6.3](Section6_Scale_and_Recovery/6.3_Disaster_Recovery_Business_Continuity.md) |
+| 4.6.1 | Scale Horizon Environment | [6.01](Section6_Scale_and_Recovery/6.01_Scale_Horizon_Environment.md) |
+| 4.6.2 | Cloud Pod Architecture (CPA) | [6.02](Section6_Scale_and_Recovery/6.02_Cloud_Pod_Architecture.md) |
+| 4.6.3 | Disaster Recovery and Business Continuity | [6.03](Section6_Scale_and_Recovery/6.03_Disaster_Recovery_Business_Continuity.md) |
 
 ### Section 7: Automation & Integration
 
 | Objective | トピック | ファイル |
 |-----------|---------|---------|
-| 4.7.1 | Automate Pool Management | [7.1](Section7_Automation_Integration/7.1_Automate_Pool_Management.md) |
-| 4.7.2 | Omnissa Access Integration | [7.2](Section7_Automation_Integration/7.2_Omnissa_Access_Integration.md) |
-| 4.7.3 | Omnissa Intelligence Integration | [7.3](Section7_Automation_Integration/7.3_Omnissa_Intelligence_Integration.md) |
+| 4.7.1 | Automate Pool Management | [7.01](Section7_Automation_Integration/7.01_Automate_Pool_Management.md) |
+| 4.7.2 | Omnissa Access Integration | [7.02](Section7_Automation_Integration/7.02_Omnissa_Access_Integration.md) |
+| 4.7.3 | Omnissa Intelligence Integration | [7.03](Section7_Automation_Integration/7.03_Omnissa_Intelligence_Integration.md) |
 
 ---
 
